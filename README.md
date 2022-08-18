@@ -1,7 +1,8 @@
 # David-Newman-s-Module-1-Challenge
 Overview and Origin
 Hodl (not to be confused with 21Shares:Hodl) is an up-and-coming investment fund management group that specialises in trading of cryptocurrencies. The company was officially established in 2020 in Holland, Netherlands (Hodl – about us, 2022). However, the idea for Hodl started back in 2014 when Nick Friedrich and Peter van Dam combined their expertise in cryptocurrency to establish a private investment fund targeted towards high-end clientele in Turkey(linkedin – hodl funds, 2022). However, this fund was not successful. Therefore, Nick and Peter brought on Maurice Mureau in 2020 as one of the cofounders and CEO of HODL due to his expertise in wealth management (linkedin – Hodl funds, 2022). Hodl was established because the founders could see there was a growing demand for investment in cryptocurrencies. Together, Hodl’s founders use their 65 collective years of knowledge in wealth management and cryptocurrency to help investors wanting to get into the cryptocurrencies market space (Hodl – about us, 2022).
-![Hodl History](Hodl History.png)
+
+![Hodl History](Hodl_History.png)
 
 Hodl is primarily funded through their management and performance fee structure, which are 0.5% per quarter on total invested assets and 20% on positive monthly returns, respectively (Hodl – about us, 2022). However, due to the company being privately owned, the total amount of funding raised for its conception is unknown. Conversely, Hodl business activities revolve around inhouse developed trading bots and therefore wouldn’t need much initial start-up capital to begin operations (Hodl – how it works, 2022). 
 
