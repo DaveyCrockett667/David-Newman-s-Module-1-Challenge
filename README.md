@@ -1,5 +1,7 @@
 # David-Newman-s-Module-1-Challenge
+
 Overview and Origin
+
 Hodl (not to be confused with 21Shares:Hodl) is an up-and-coming investment fund management group that specialises in trading of cryptocurrencies. The company was officially established in 2020 in Holland, Netherlands (Hodl – about us, 2022). However, the idea for Hodl started back in 2014 when Nick Friedrich and Peter van Dam combined their expertise in cryptocurrency to establish a private investment fund targeted towards high-end clientele in Turkey(linkedin – hodl funds, 2022). However, this fund was not successful. Therefore, Nick and Peter brought on Maurice Mureau in 2020 as one of the cofounders and CEO of HODL due to his expertise in wealth management (linkedin – Hodl funds, 2022). Hodl was established because the founders could see there was a growing demand for investment in cryptocurrencies. Together, Hodl’s founders use their 65 collective years of knowledge in wealth management and cryptocurrency to help investors wanting to get into the cryptocurrencies market space (Hodl – about us, 2022).
 
 ![Hodl History](Hodl_History.png)
@@ -7,9 +9,11 @@ Hodl (not to be confused with 21Shares:Hodl) is an up-and-coming investment fund
 Hodl is primarily funded through their management and performance fee structure, which are 0.5% per quarter on total invested assets and 20% on positive monthly returns, respectively (Hodl – about us, 2022). However, due to the company being privately owned, the total amount of funding raised for its conception is unknown. Conversely, Hodl business activities revolve around inhouse developed trading bots and therefore wouldn’t need much initial start-up capital to begin operations (Hodl – how it works, 2022). 
 
 Business Activities
+
 As mentioned before, Hodl’s key demographic are high-end investors wanting to enter the cryptoworld in a safe manner while expecting high returns. The cofounders recognised this specific financial problem and have tailor made several private funds centred around trading cryptocurrency. Currently, Hodl has approximately 350 clients spread across three investment funds on offer, each of which are nearing their €100 million euro cap (Hodl – funds, 2022). An added benefit for investors is that these funds registered in Netherlands and are fully AFM compliant (Hodl – funds, 2022). Secondly, unlike other companies, Hodl does not have any lock in terms and allows clients ease of access to their investment with a once-a-month withdrawal option for added peace of mind(Hodl – funds, 2022). Lastly, Hodl’s strategy is to utilise a combination of their expertise in investment management and developing algorithmic trading bots coupled with data analytics of cryptocurrency positions to create a diversified cryptocurrency portfolio (Hodl – how it works, 2022). Though, this last point may not be unique in the field of cryptocurrency; it has allowed Hodl to rack up returns on investments of up to 378% from the funds conception (Hodl – funds, 2022).
 
 Landscape
+
 Hodl’s primary domain is cryptocurrency and blockchain, however, their business activities also include the investment management domain. For the purpose of this exercise this case study will focus primarily on cryptocurrency and blockchain. Below is list some of the major trends and innovations in the cryptoworld:
 •	2008: Satoshi Nakamoto (man of mystery) publishes the Bitcoin white paper, outlining its functionality on the blockchain network (Jones, 2022).
 •	2009: Bitcoin is mined for the first time (Jones, 2022).
@@ -48,6 +52,7 @@ o	ETF fund focused on trading cryptocurrencies, tech, banking, and international
 o	Asset value of $144 million USD (Rossolillo, 2022)
 
 Results
+
 As mentioned before, Hodl is a new and relatively small company in the multitrillion dollar cryptocurrency market. Unfortunately, Hodl’s growth has been hinder due to only being allowed to have a fund cap limit of €100 million euros (Hodl – about us, 2022). However, now that Hodl is in fully AFM compliant their aim is to start a new fund based out of Switzerland, which would allow them to trade without any fund cap and expand their company’s growth(Hodl – about us, 2022). This could allow them to become a more significant player among other cryptocurrency trading companies if they can accumulate enough investment. Nonetheless, to do so would require Hodl to continue growing their user base, which may take some convincing in the current market. As mentioned above, Hodl had experienced amazing success back in 2021 with their Genesis fund reaching 378% annual returns, significantly higher than other indices such as Bitcoin (59.76%) and S&P 500 (28.4%) (Hodl – about us, 2022) (Upmyinterest, 2022) (PK, 2022). Though, current performance of Hodl’s funds are not having the same results. The status of the funds are as follows: 
 •	Genesis fund 
 o	YTD -27.83%
@@ -88,6 +93,7 @@ o	+18.54% (Yahoo Finance - LEGR, 2022)
 As we can see Hodl’s losses are somewhat comparable to the top four largest cryptocurrency ETF funds and outperforming the top three private cryptocurrency funds. The exception being First Trust Indxx, which focuses on managing a diversified portfolio rather than focusing solely on cryptocurrency (First Trust Canada, 2022).
 
 Recommendations
+
 When compared to some of the top private cryptocurrency funds it could be said that Hodl has done well to moderate their losses. There are likely several contributing factors why Hodl has done better than the larger private funds. One speculation is that they may have less assets to liquidate during the cryptocurrency crash (Nicolle, 2022). Similarly, Hodl YTD losses are comparable to some of the major ETF funds looked at in this report except for First Trust Indxx. Therefore, it could be recommended that Hodl follow First Trust Indxx strategy and focus on diversification of their portfolio by investing in other assets. Through diversification, First Trust Indxx has protected themselves from the volatility of recent cryptocurrency price movement. This stands to reason as we can see that First Trust Indxx YTD losses are significantly smaller compared with Hodl’s funds, other major cryptocurrency ETFs, and the major private funds looked at in this case study. Though, Hodl’s expertise are centred around cryptocurrency and blockchain, therefore, this report would recommend diversifying into non-fungible tokens (NFTs).
 
 The NFT art market is significantly smaller compared to the cryptoworld, though, its true value is widely debated. Marketplace suggests the NFT market is valued at $8 billion USD, whereas Visa is estimating its worth being closer to $100 billion USD (Adejumo, 2022) (Mozée, 2022).
@@ -96,6 +102,7 @@ The NFT art market is significantly smaller compared to the cryptoworld, though,
 NFT art is blockchain technology, which Hodl’s founder are exceedingly familiar with. Hodl could potentially repurpose trading bots to focus on particular NFTs in order to buy in at the correct time. A caveat to this suggestion is that picking NFT art that will increase in value may require a human touch as good art is subjective. Therefore, Hodl would likely need to use a combination of human intervention, big data analytics, and their trading bots to be successful in the NFT market space.
 
  Bibliography
+ 
 •	Hodl. 2022. About us. [online] Available at: <https://www.hodl.nl/en/about-us/> [Accessed 17 August 2022].
 •	linkedin. 2022. hodl-funds. [online] Available at: <https://www.linkedin.com/company/hodl-funds/?original_referer=https%3A%2F%2Fwww.hodl.nl%2F> [Accessed 17 August 2022].
 •	Hodl. 2022. How do our Cryptocurrency Investment Funds work?. [online] Available at: <https://www.hodl.nl/en/how-it-works/> [Accessed 17 August 2022].
