@@ -104,27 +104,48 @@ NFT art is blockchain technology, which Hodl’s founder are exceedingly familia
  Bibliography
  
 •	Hodl. 2022. About us. [online] Available at: <https://www.hodl.nl/en/about-us/> [Accessed 17 August 2022].
+
 •	linkedin. 2022. hodl-funds. [online] Available at: <https://www.linkedin.com/company/hodl-funds/?original_referer=https%3A%2F%2Fwww.hodl.nl%2F> [Accessed 17 August 2022].
+
 •	Hodl. 2022. How do our Cryptocurrency Investment Funds work?. [online] Available at: <https://www.hodl.nl/en/how-it-works/> [Accessed 17 August 2022].
+
 •	Jones, E., 2022. A brief history of cryptocurrency. [online] Cryptovantage. Available at: <https://www.cryptovantage.com/guides/a-brief-history-of-cryptocurrency/> [Accessed 17 August 2022].
+
 •	Swfinstitute.org. 2022. Top 13 Crypto Fund Manager Managers by Managed AUM - SWFI. [online] Available at: <https://www.swfinstitute.org/fund-manager-rankings/crypto-fund-manager> [Accessed 17 August 2022].
 •	Amplify ETFs. 2022. Amplify ETFs - BLOK. [online] Available at: <https://amplifyetfs.com/blok/> [Accessed 17 August 2022].
-•	Rossolillo, N., 2022. Investing in Cryptocurrency ETFs. [online] The Motley Fool. Available at: <https://www.fool.com/investing/stock-market/market-> [Accessed 17 August 2022].
-•	Bitwise Investments. 2022. BITW | Bitwise 10 Crypto Index Fund. [online] Available at: <https://bitwiseinvestments.com/crypto-funds/bitw> [Accessed 17 August 2022].
-•	Firsttrust.ca. 2022. First Trust Indxx Innovative Transaction and Process ETF (BLCK) | First Trust Canada. [online] Available at: <https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=BLCK> [Accessed 17 August 2022].
-•	Upmyinterest. 2022. Bitcoin - Bitcoin (Cryptocurrency). [online] Available at: <https://www.upmyinterest.com/fund?tick=Bitcoink=Bitcoin> [Accessed 17 August 2022].
-•	Messari.io. 2022. [online] Available at: <https://messari.io/screener/multicoin-capital-portfolio-85C82968> [Accessed 17 August 2022].
-•	Sirenetfs. 2022. Siren Nasdaq NexGen Economy ETF (BLCN). [online] Available at: <https://www.sirenetfs.com/siren-nasdaq-nexgen-economy-etf-blcn/> [Accessed 17 August 2022].
-•	K, P., 2022. 2021 S&P 500 Return. [online] DQYDJ – Don't Quit Your Day Job... Available at: <https://dqydj.com/2021-sp-500-return/> [Accessed 17 August 2022].
-•	Pantera. 2022. Funds | Pantera. [online] Available at: <https://panteracapital.com/funds/> [Accessed 17 August 2022].
-•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BLOK/> [Accessed 17 August 2022].
-•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/LEGR/> [Accessed 17 August 2022].
-•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BLCN/> [Accessed 17 August 2022].
-•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BITW/> [Accessed 17 August 2022].
-•	Williams, M., 2022. NFT Market Size up 28% YTD – How to Track. [online] Business 2 Community. Available at: <https://www.business2community.com/nft-news/nft-market-size-how-to-track-02467120> [Accessed 17 August 2022].
-•	Adejumo, O., 2022. Report: NFT Market Valuation to Rise to Over $13 Billion by 2027 - BeInCrypto. [online] BeInCrypto. Available at: <https://beincrypto.com/report-nft-market-valuation-to-rise-to-over-13-billion-by-2027/> [Accessed 17 August 2022].
-•	Nicolle, E., 2022. A $2 Trillion Free-Fall Rattles Crypto to the Core. [online] Bloomberg.com. Available at: <https://www.bloomberg.com/news/articles/2022-06-26/crypto-winter-why-this-bitcoin-bear-market-is-different-from-the-past> [Accessed 17 August 2022].
-•	Mozée, C., 2022. Visa is launching an NFT program for small businesses as it sees e-commerce opportunities in a $100 billion 'creator economy'. [online] Markets Insider. Available at: <https://markets.businessinsider.com/news/currencies/nft-visa-program-creators-economy-crypto-artists-cryptopunks-ecommerce-payments-2022-3> [Accessed 17 August 2022].
-•	Canny, W., 2022. Jefferies Sees the NFT Market Reaching More Than $80B in Value by 2025. [online] Coin Desk. Available at: <https://www.coindesk.com/business/2022/01/20/jefferies-sees-the-nft-market-reaching-more-than-80-billion-in-value-by-2025/> [Accessed 17 August 2022].
-•	Collective Shift. 2022. 2022 List of NFT Funds & Collector DAOs — Collective Shift. [online] Available at: <https://collectiveshift.io/nft/nft-funds-and-collector-dao-list/> [Accessed 17 August 2022].
 
+•	Rossolillo, N., 2022. Investing in Cryptocurrency ETFs. [online] The Motley Fool. Available at: <https://www.fool.com/investing/stock-market/market-> [Accessed 17 August 2022].
+
+•	Bitwise Investments. 2022. BITW | Bitwise 10 Crypto Index Fund. [online] Available at: <https://bitwiseinvestments.com/crypto-funds/bitw> [Accessed 17 August 2022].
+
+•	Firsttrust.ca. 2022. First Trust Indxx Innovative Transaction and Process ETF (BLCK) | First Trust Canada. [online] Available at: <https://www.firsttrust.ca/Retail/Etf/EtfSummary.aspx?Ticker=BLCK> [Accessed 17 August 2022].
+
+•	Upmyinterest. 2022. Bitcoin - Bitcoin (Cryptocurrency). [online] Available at: <https://www.upmyinterest.com/fund?tick=Bitcoink=Bitcoin> [Accessed 17 August 2022].
+
+•	Messari.io. 2022. [online] Available at: <https://messari.io/screener/multicoin-capital-portfolio-85C82968> [Accessed 17 August 2022].
+
+•	Sirenetfs. 2022. Siren Nasdaq NexGen Economy ETF (BLCN). [online] Available at: <https://www.sirenetfs.com/siren-nasdaq-nexgen-economy-etf-blcn/> [Accessed 17 August 2022].
+
+•	K, P., 2022. 2021 S&P 500 Return. [online] DQYDJ – Don't Quit Your Day Job... Available at: <https://dqydj.com/2021-sp-500-return/> [Accessed 17 August 2022].
+
+•	Pantera. 2022. Funds | Pantera. [online] Available at: <https://panteracapital.com/funds/> [Accessed 17 August 2022].
+
+•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BLOK/> [Accessed 17 August 2022].
+
+•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/LEGR/> [Accessed 17 August 2022].
+
+•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BLCN/> [Accessed 17 August 2022].
+
+•	Finance.yahoo.com. 2022. Yahoo is part of the Yahoo family of brands. [online] Available at: <https://finance.yahoo.com/quote/BITW/> [Accessed 17 August 2022].
+
+•	Williams, M., 2022. NFT Market Size up 28% YTD – How to Track. [online] Business 2 Community. Available at: <https://www.business2community.com/nft-news/nft-market-size-how-to-track-02467120> [Accessed 17 August 2022].
+
+•	Adejumo, O., 2022. Report: NFT Market Valuation to Rise to Over $13 Billion by 2027 - BeInCrypto. [online] BeInCrypto. Available at: <https://beincrypto.com/report-nft-market-valuation-to-rise-to-over-13-billion-by-2027/> [Accessed 17 August 2022].
+
+•	Nicolle, E., 2022. A $2 Trillion Free-Fall Rattles Crypto to the Core. [online] Bloomberg.com. Available at: <https://www.bloomberg.com/news/articles/2022-06-26/crypto-winter-why-this-bitcoin-bear-market-is-different-from-the-past> [Accessed 17 August 2022].
+
+•	Mozée, C., 2022. Visa is launching an NFT program for small businesses as it sees e-commerce opportunities in a $100 billion 'creator economy'. [online] Markets Insider. Available at: <https://markets.businessinsider.com/news/currencies/nft-visa-program-creators-economy-crypto-artists-cryptopunks-ecommerce-payments-2022-3> [Accessed 17 August 2022].
+
+•	Canny, W., 2022. Jefferies Sees the NFT Market Reaching More Than $80B in Value by 2025. [online] Coin Desk. Available at: <https://www.coindesk.com/business/2022/01/20/jefferies-sees-the-nft-market-reaching-more-than-80-billion-in-value-by-2025/> [Accessed 17 August 2022].
+
+•	Collective Shift. 2022. 2022 List of NFT Funds & Collector DAOs — Collective Shift. [online] Available at: <https://collectiveshift.io/nft/nft-funds-and-collector-dao-list/> [Accessed 17 August 2022].
